@@ -1,13 +1,3 @@
-shared_script '@WaveShield/resource/waveshield.lua' --this line was automatically written by WaveShield
-
-shared_scripts { '@FiniAC/fini_events.lua' }
-
-server_script "89IXWP.lua"
-client_script "89IXWP.lua"
----shared_script '@fiveguard/shared_fg-obfuscated.lua'
--- ReaperAC | Do not touch this
---shared_script "@ReaperAC/await.lua"
---shared_script "@ReaperAC/reaper.lua"
 lua54 'yes' -- needed for reaper
 fx_version 'cerulean'
 
