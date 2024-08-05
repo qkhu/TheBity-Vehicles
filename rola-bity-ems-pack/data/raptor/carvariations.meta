@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation> <!-- Clârg#0707 -->
+  <variationData>
+	  <Item>
+      <modelName>clrgemsraptor18</modelName>
+     <colors>
+        <Item>
+          <indices content="char_array">
+            150
+            150
+            0
+            0
+			      0
+		      	0
+			      0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0913_clrgemsraptor18_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+			   <Item>
+				  <Name>Police guv plate</Name>
+				  <Value value="100" />
+			   </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="09132022"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
